@@ -1,0 +1,1 @@
+This is file3 in project 2 added newly after pushing file 1 and file 2 to github
